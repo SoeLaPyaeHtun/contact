@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contact/static/css/main.671ccee9.css",
+    "main.js": "/contact/static/js/main.e0068d09.js",
+    "static/js/787.da558b7b.chunk.js": "/contact/static/js/787.da558b7b.chunk.js",
+    "static/media/pro.jpg": "/contact/static/media/pro.e62f5b25f331d6ba06ae.jpg",
+    "static/media/Soe_La_Pyae_Htun_Resume.pdf": "/contact/static/media/Soe_La_Pyae_Htun_Resume.df3f293677c26f7d3457.pdf",
+    "index.html": "/contact/index.html",
+    "main.671ccee9.css.map": "/contact/static/css/main.671ccee9.css.map",
+    "main.e0068d09.js.map": "/contact/static/js/main.e0068d09.js.map",
+    "787.da558b7b.chunk.js.map": "/contact/static/js/787.da558b7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671ccee9.css",
+    "static/js/main.e0068d09.js"
+  ]
+}
