@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  font-family: 'Rajdhani', sans-serif;
+}
+.container {
+  height: 100%;
+}
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 400ms ease-in;
+}
+
+.fade-exit.fade-exit-active {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+}
+
+
+
+body {
+	background: linear-gradient(-45deg, #fff2ec, #fff0f6, #f3fcff, #f1fffc);
+	background-size: 400% 400%;
+	animation: gradient 30s ease infinite;
+	
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
