@@ -84,10 +84,10 @@ const ContactCard = () => {
                 </div>
               </li>
 
-              <li class="pt-4">
-                <div class="flex flex-col justify-center items-center space-x-4">
+              <li class="py-3 sm:py-4">
+                <div class="flex flex-col  justify-center items-center space-x-4">
 
-                  <div class="flex-1 min-w-0">
+                  <div class="flex-1 min-w-0 pt-4">
 
                     <Link
                       to="https://wa.me/+6586470728"
